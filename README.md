@@ -16,10 +16,11 @@
 参照扣子空间的技术文档
 
 #### 软件界面
-
+![App UI](resource/App%20UI%20-%20mini.png)
 #### 体验软件
 - 用豆包App扫图片下端的二维码，可以打开该应用。
 
+![CR Code](resource/App%20CR%20Code%20-%20mini.jpg)
 
 #### 功能清单
 1.收集单身人士信息
